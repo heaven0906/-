@@ -332,7 +332,7 @@ Page({
   uploadimage: function () {
 
   },
-
+/*
 //页面自动滚动到底部
 pageScrollToBottom: function () {
   wx.createSelectorQuery().select('#scrollpage').boundingClientRect(function(rect){
@@ -342,6 +342,6 @@ pageScrollToBottom: function () {
       });
   }).exec()
 }
- 
+ */
 })
  
